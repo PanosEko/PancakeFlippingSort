@@ -49,8 +49,11 @@ Solving the pancake flippon sort problem with UCS and A*
 AK= [4,1,5,2,3], N = 6 και [2,4,13,6,5], Ν = 7 και ΑΚ = [6,3,1,7,2,5,4].
  
  
+![image](https://user-images.githubusercontent.com/93736094/171301136-a792c976-9398-4e30-915c-5f457e5c1a9d.png)
 
-  
+![image](https://user-images.githubusercontent.com/93736094/171301147-2ad98a49-087f-4525-b666-81b54b2a7c86.png)
+
+![image](https://user-images.githubusercontent.com/93736094/171301166-910daff7-6fcf-4aec-b686-db3bccbcca95.png)
 
 
 Παρατηρούμε πως σε όλες τις περιπτώσεις το μονοπάτι που δίνουν οι αλγόριθμοι από μια αρχική κατάσταση προς τον κόμβο στόχο είναι ακριβώς το ίδιο.
