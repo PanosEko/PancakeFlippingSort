@@ -1,4 +1,4 @@
-# PancakeFlippingSort
+# Pancake Flipping Sorting
 Solving the pancake flippon sort problem with UCS and A*
 
 # ΠΕΡΙΓΡΑΦΗ ΠΡΟΒΛΗΜΑΤΟΣ 
@@ -25,7 +25,7 @@ Solving the pancake flippon sort problem with UCS and A*
 
 # ΥΛΟΠΟΙΗΣΗ
 
-Για το παραπάνω  πρόβλημα να υλοποιήθηκε:
+Για την επίλυση του παραπάνω προβλήματος υλοποιήθηκε:
 -	αναζήτηση ομοιόμορφου κόστους (UCS)
 -	αναζήτηση A* χρησιμοποιώντας κατάλληλη ευρετική συνάρτηση.
 
