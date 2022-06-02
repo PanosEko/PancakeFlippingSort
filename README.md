@@ -1,5 +1,5 @@
 # Pancake Flipping Sorting
-Solving the pancake flippon sort problem with UCS and A*
+Solving the pancake flipping sort problem with UCS and A*
 
 # ΠΕΡΙΓΡΑΦΗ ΠΡΟΒΛΗΜΑΤΟΣ 
 
